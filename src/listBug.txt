@@ -1,0 +1,2 @@
+- height of input not equal to its parent element
+- onclick to show menu settings
